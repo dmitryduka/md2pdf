@@ -1,0 +1,27 @@
+2017-05-24 22:49:49,265+0400 INFO  initexmf - starting: MiKTeX Configuration Utility (MiKTeX 2.9.6300 64-bit)
+2017-05-24 22:49:49,280+0400 INFO  initexmf - Creating fndb for user root directory (C:\Users\dduka\AppData\Roaming\MiKTeX\2.9)...
+2017-05-24 22:49:49,301+0400 INFO  initexmf - Creating fndb for user root directory (C:\Users\dduka\AppData\Local\MiKTeX\2.9)...
+2017-05-24 22:49:49,323+0400 INFO  initexmf - Skipping common root directory (C:\ProgramData\MiKTeX\2.9)...
+2017-05-24 22:49:49,323+0400 INFO  initexmf - Skipping common root directory ("C:\Program Files\MiKTeX 2.9")...
+2017-05-24 22:49:53,136+0400 INFO  initexmf - starting: MiKTeX Configuration Utility (MiKTeX 2.9.6300 64-bit)
+2017-05-24 22:49:53,155+0400 INFO  initexmf - running 'miktex-makefmt.exe --engine=pdftex --dest-name=pdflatex --no-dump pdflatex.ini --engine-option=-tcx=cp227.tcx --enable-installer'
+2017-05-24 22:49:59,325+0400 INFO  initexmf - starting: MiKTeX Configuration Utility (MiKTeX 2.9.6300 64-bit)
+2017-05-24 22:49:59,392+0400 INFO  initexmf - running: mkfntmap --enable-installer
+2017-05-24 22:50:24,931+0400 INFO  initexmf - starting: MiKTeX Configuration Utility (MiKTeX 2.9.6300 64-bit)
+2017-05-24 22:50:24,996+0400 INFO  initexmf - running: mkfntmap --enable-installer
+2017-05-24 22:50:26,340+0400 INFO  initexmf - starting: MiKTeX Configuration Utility (MiKTeX 2.9.6300 64-bit)
+2017-05-24 22:50:26,402+0400 INFO  initexmf - running: mkfntmap --enable-installer
+2017-05-24 22:50:27,554+0400 INFO  initexmf - starting: MiKTeX Configuration Utility (MiKTeX 2.9.6300 64-bit)
+2017-05-24 22:50:27,616+0400 INFO  initexmf - running: mkfntmap --enable-installer
+2017-05-24 22:50:28,529+0400 INFO  initexmf - starting: MiKTeX Configuration Utility (MiKTeX 2.9.6300 64-bit)
+2017-05-24 22:50:28,591+0400 INFO  initexmf - running: mkfntmap --enable-installer
+2017-05-24 22:50:29,857+0400 INFO  initexmf - starting: MiKTeX Configuration Utility (MiKTeX 2.9.6300 64-bit)
+2017-05-24 22:50:29,920+0400 INFO  initexmf - running: mkfntmap --enable-installer
+2017-05-25 00:21:08,562+0400 INFO  initexmf - starting: MiKTeX Configuration Utility (MiKTeX 2.9.6300 64-bit)
+2017-05-25 00:21:08,627+0400 INFO  initexmf - running: mkfntmap --enable-installer
+2017-05-25 00:21:10,097+0400 INFO  initexmf - starting: MiKTeX Configuration Utility (MiKTeX 2.9.6300 64-bit)
+2017-05-25 00:21:10,160+0400 INFO  initexmf - running: mkfntmap --enable-installer
+2017-05-25 01:15:34,170+0400 INFO  initexmf - starting: MiKTeX Configuration Utility (MiKTeX 2.9.6300)
+2017-05-25 01:15:34,233+0400 INFO  initexmf - running: mkfntmap 
+2017-05-25 01:41:34,779+0400 INFO  initexmf - starting: MiKTeX Configuration Utility (MiKTeX 2.9.6300)
+2017-05-25 01:41:34,842+0400 INFO  initexmf - running: mkfntmap 

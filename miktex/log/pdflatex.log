@@ -1,0 +1,314 @@
+2017-05-24 22:49:49,227+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.3836 ./tex2pdf.3836/input.tex
+2017-05-24 22:49:49,233+0400 INFO  pdflatex - running 'initexmf --enable-installer --quiet --update-fndb' to refresh the file name database
+2017-05-24 22:49:53,043+0400 INFO  pdflatex - going to create file: pdflatex.fmt
+2017-05-24 22:49:56,586+0400 INFO  pdflatex - installing package upquote triggered by tex\latex\upquote\upquote.sty
+2017-05-24 22:49:57,049+0400 INFO  pdflatex - mpm: starting package maintenance...
+2017-05-24 22:49:57,049+0400 INFO  pdflatex - mpm: installation directory: C:\Users\dduka\AppData\Roaming\MiKTeX\2.9
+2017-05-24 22:49:57,049+0400 INFO  pdflatex - mpm: package repository: ftp://mirrors.mi.ras.ru/CTAN/systems/win32/miktex/tm/packages/
+2017-05-24 22:49:57,049+0400 INFO  pdflatex - mpm: visiting repository ftp://mirrors.mi.ras.ru/CTAN/systems/win32/miktex/tm/packages/...
+2017-05-24 22:49:57,049+0400 INFO  pdflatex - mpm: repository type: remote package repository
+2017-05-24 22:49:57,049+0400 INFO  pdflatex - mpm: loading lightweight database...
+2017-05-24 22:49:57,051+0400 INFO  pdflatex - mpm: downloading ftp://mirrors.mi.ras.ru/CTAN/systems/win32/miktex/tm/packages/miktex-zzdb1-2.9.tar.lzma...
+2017-05-24 22:49:57,340+0400 INFO  pdflatex - mpm: 166669 bytes, 569.10 KB/Sec
+2017-05-24 22:49:57,474+0400 INFO  pdflatex - mpm: lightweight database digest: 3a990fd9300abc5d0d8c99b2064abddb
+2017-05-24 22:49:57,478+0400 INFO  pdflatex - mpm: going to download 167179 bytes
+2017-05-24 22:49:57,478+0400 INFO  pdflatex - mpm: going to install 5 file(s) (1 package(s))
+2017-05-24 22:49:57,480+0400 INFO  pdflatex - mpm: downloading ftp://mirrors.mi.ras.ru/CTAN/systems/win32/miktex/tm/packages/upquote.tar.lzma...
+2017-05-24 22:49:57,571+0400 INFO  pdflatex - mpm: 167179 bytes, 1794.07 KB/Sec
+2017-05-24 22:49:57,572+0400 INFO  pdflatex - mpm: extracting files from upquote.tar.lzma...
+2017-05-24 22:50:23,405+0400 INFO  pdflatex - installing package microtype triggered by tex\latex\microtype\microtype.sty
+2017-05-24 22:50:23,736+0400 INFO  pdflatex - mpm: starting package maintenance...
+2017-05-24 22:50:23,736+0400 INFO  pdflatex - mpm: installation directory: C:\Users\dduka\AppData\Roaming\MiKTeX\2.9
+2017-05-24 22:50:23,736+0400 INFO  pdflatex - mpm: package repository: ftp://mirrors.mi.ras.ru/CTAN/systems/win32/miktex/tm/packages/
+2017-05-24 22:50:23,859+0400 INFO  pdflatex - mpm: lightweight database digest: 3a990fd9300abc5d0d8c99b2064abddb
+2017-05-24 22:50:23,859+0400 INFO  pdflatex - mpm: going to download 1754972 bytes
+2017-05-24 22:50:23,859+0400 INFO  pdflatex - mpm: going to install 31 file(s) (1 package(s))
+2017-05-24 22:50:23,861+0400 INFO  pdflatex - mpm: downloading ftp://mirrors.mi.ras.ru/CTAN/systems/win32/miktex/tm/packages/microtype.tar.lzma...
+2017-05-24 22:50:24,688+0400 INFO  pdflatex - mpm: 1754972 bytes, 2072.36 KB/Sec
+2017-05-24 22:50:24,693+0400 INFO  pdflatex - mpm: extracting files from microtype.tar.lzma...
+2017-05-24 22:50:25,995+0400 INFO  pdflatex - installing package url triggered by tex\latex\url\url.sty
+2017-05-24 22:50:25,995+0400 INFO  pdflatex - mpm: starting package maintenance...
+2017-05-24 22:50:25,995+0400 INFO  pdflatex - mpm: installation directory: C:\Users\dduka\AppData\Roaming\MiKTeX\2.9
+2017-05-24 22:50:25,995+0400 INFO  pdflatex - mpm: package repository: ftp://mirrors.mi.ras.ru/CTAN/systems/win32/miktex/tm/packages/
+2017-05-24 22:50:26,118+0400 INFO  pdflatex - mpm: lightweight database digest: 3a990fd9300abc5d0d8c99b2064abddb
+2017-05-24 22:50:26,118+0400 INFO  pdflatex - mpm: going to download 273472 bytes
+2017-05-24 22:50:26,118+0400 INFO  pdflatex - mpm: going to install 5 file(s) (1 package(s))
+2017-05-24 22:50:26,120+0400 INFO  pdflatex - mpm: downloading ftp://mirrors.mi.ras.ru/CTAN/systems/win32/miktex/tm/packages/url.tar.lzma...
+2017-05-24 22:50:26,218+0400 INFO  pdflatex - mpm: 273472 bytes, 2725.13 KB/Sec
+2017-05-24 22:50:26,219+0400 INFO  pdflatex - mpm: extracting files from url.tar.lzma...
+2017-05-24 22:50:27,126+0400 INFO  pdflatex - installing package fancyvrb triggered by tex\latex\fancyvrb\fancyvrb.sty
+2017-05-24 22:50:27,126+0400 INFO  pdflatex - mpm: starting package maintenance...
+2017-05-24 22:50:27,126+0400 INFO  pdflatex - mpm: installation directory: C:\Users\dduka\AppData\Roaming\MiKTeX\2.9
+2017-05-24 22:50:27,126+0400 INFO  pdflatex - mpm: package repository: ftp://mirrors.mi.ras.ru/CTAN/systems/win32/miktex/tm/packages/
+2017-05-24 22:50:27,249+0400 INFO  pdflatex - mpm: lightweight database digest: 3a990fd9300abc5d0d8c99b2064abddb
+2017-05-24 22:50:27,249+0400 INFO  pdflatex - mpm: going to download 661111 bytes
+2017-05-24 22:50:27,249+0400 INFO  pdflatex - mpm: going to install 10 file(s) (1 package(s))
+2017-05-24 22:50:27,251+0400 INFO  pdflatex - mpm: downloading ftp://mirrors.mi.ras.ru/CTAN/systems/win32/miktex/tm/packages/fancyvrb.tar.lzma...
+2017-05-24 22:50:27,404+0400 INFO  pdflatex - mpm: 661111 bytes, 4219.71 KB/Sec
+2017-05-24 22:50:27,406+0400 INFO  pdflatex - mpm: extracting files from fancyvrb.tar.lzma...
+2017-05-24 22:50:28,207+0400 INFO  pdflatex - installing package framed triggered by tex\latex\framed\framed.sty
+2017-05-24 22:50:28,207+0400 INFO  pdflatex - mpm: starting package maintenance...
+2017-05-24 22:50:28,207+0400 INFO  pdflatex - mpm: installation directory: C:\Users\dduka\AppData\Roaming\MiKTeX\2.9
+2017-05-24 22:50:28,207+0400 INFO  pdflatex - mpm: package repository: ftp://mirrors.mi.ras.ru/CTAN/systems/win32/miktex/tm/packages/
+2017-05-24 22:50:28,329+0400 INFO  pdflatex - mpm: lightweight database digest: 3a990fd9300abc5d0d8c99b2064abddb
+2017-05-24 22:50:28,330+0400 INFO  pdflatex - mpm: going to download 248224 bytes
+2017-05-24 22:50:28,330+0400 INFO  pdflatex - mpm: going to install 4 file(s) (1 package(s))
+2017-05-24 22:50:28,331+0400 INFO  pdflatex - mpm: downloading ftp://mirrors.mi.ras.ru/CTAN/systems/win32/miktex/tm/packages/framed.tar.lzma...
+2017-05-24 22:50:28,409+0400 INFO  pdflatex - mpm: 248224 bytes, 3107.77 KB/Sec
+2017-05-24 22:50:28,411+0400 INFO  pdflatex - mpm: extracting files from framed.tar.lzma...
+2017-05-24 22:50:29,350+0400 INFO  pdflatex - installing package mptopdf triggered by tex\context\base\supp-pdf.mkii
+2017-05-24 22:50:29,350+0400 INFO  pdflatex - mpm: starting package maintenance...
+2017-05-24 22:50:29,350+0400 INFO  pdflatex - mpm: installation directory: C:\Users\dduka\AppData\Roaming\MiKTeX\2.9
+2017-05-24 22:50:29,350+0400 INFO  pdflatex - mpm: package repository: ftp://mirrors.mi.ras.ru/CTAN/systems/win32/miktex/tm/packages/
+2017-05-24 22:50:29,474+0400 INFO  pdflatex - mpm: lightweight database digest: 3a990fd9300abc5d0d8c99b2064abddb
+2017-05-24 22:50:29,475+0400 INFO  pdflatex - mpm: going to download 37051 bytes
+2017-05-24 22:50:29,475+0400 INFO  pdflatex - mpm: going to install 7 file(s) (1 package(s))
+2017-05-24 22:50:29,476+0400 INFO  pdflatex - mpm: downloading ftp://mirrors.mi.ras.ru/CTAN/systems/win32/miktex/tm/packages/mptopdf.tar.lzma...
+2017-05-24 22:50:29,749+0400 INFO  pdflatex - mpm: 37051 bytes, 133.02 KB/Sec
+2017-05-24 22:50:29,750+0400 INFO  pdflatex - mpm: extracting files from mptopdf.tar.lzma...
+2017-05-24 22:50:31,349+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.3836 ./tex2pdf.3836/input.tex
+2017-05-24 22:50:33,064+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.3836 ./tex2pdf.3836/input.tex
+2017-05-24 23:49:01,378+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.372 ./tex2pdf.372/input.tex
+2017-05-24 23:49:03,186+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.372 ./tex2pdf.372/input.tex
+2017-05-24 23:49:04,975+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.372 ./tex2pdf.372/input.tex
+2017-05-24 23:49:07,106+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.5784 ./tex2pdf.5784/input.tex
+2017-05-24 23:49:08,929+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.5784 ./tex2pdf.5784/input.tex
+2017-05-24 23:49:10,744+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.5784 ./tex2pdf.5784/input.tex
+2017-05-24 23:49:12,915+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.1704 ./tex2pdf.1704/input.tex
+2017-05-24 23:49:14,783+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.1704 ./tex2pdf.1704/input.tex
+2017-05-24 23:49:16,647+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.1704 ./tex2pdf.1704/input.tex
+2017-05-24 23:49:18,931+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.7996 ./tex2pdf.7996/input.tex
+2017-05-24 23:49:20,810+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.7996 ./tex2pdf.7996/input.tex
+2017-05-24 23:49:22,616+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.7996 ./tex2pdf.7996/input.tex
+2017-05-24 23:49:24,752+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.956 ./tex2pdf.956/input.tex
+2017-05-24 23:49:26,582+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.956 ./tex2pdf.956/input.tex
+2017-05-24 23:49:28,350+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.956 ./tex2pdf.956/input.tex
+2017-05-24 23:49:30,389+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.7228 ./tex2pdf.7228/input.tex
+2017-05-24 23:49:32,239+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.7228 ./tex2pdf.7228/input.tex
+2017-05-24 23:49:34,051+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.7228 ./tex2pdf.7228/input.tex
+2017-05-24 23:49:36,145+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.7412 ./tex2pdf.7412/input.tex
+2017-05-24 23:49:37,935+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.7412 ./tex2pdf.7412/input.tex
+2017-05-24 23:49:39,639+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.7412 ./tex2pdf.7412/input.tex
+2017-05-24 23:53:48,046+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.4476 ./tex2pdf.4476/input.tex
+2017-05-24 23:53:49,810+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.4476 ./tex2pdf.4476/input.tex
+2017-05-24 23:53:51,489+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.4476 ./tex2pdf.4476/input.tex
+2017-05-24 23:54:56,760+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.7000 ./tex2pdf.7000/input.tex
+2017-05-24 23:54:58,511+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.7000 ./tex2pdf.7000/input.tex
+2017-05-24 23:55:00,195+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.7000 ./tex2pdf.7000/input.tex
+2017-05-25 00:08:38,319+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.9032 ./tex2pdf.9032/input.tex
+2017-05-25 00:08:40,137+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.9032 ./tex2pdf.9032/input.tex
+2017-05-25 00:08:41,820+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.9032 ./tex2pdf.9032/input.tex
+2017-05-25 00:09:49,698+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8072 ./tex2pdf.8072/input.tex
+2017-05-25 00:09:51,476+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8072 ./tex2pdf.8072/input.tex
+2017-05-25 00:09:53,231+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8072 ./tex2pdf.8072/input.tex
+2017-05-25 00:15:37,229+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8424 ./tex2pdf.8424/input.tex
+2017-05-25 00:15:38,999+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8424 ./tex2pdf.8424/input.tex
+2017-05-25 00:15:40,664+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8424 ./tex2pdf.8424/input.tex
+2017-05-25 00:19:18,049+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8556 ./tex2pdf.8556/input.tex
+2017-05-25 00:19:19,852+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8556 ./tex2pdf.8556/input.tex
+2017-05-25 00:19:21,555+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8556 ./tex2pdf.8556/input.tex
+2017-05-25 00:21:04,875+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.7096 ./tex2pdf.7096/input.tex
+2017-05-25 00:21:05,773+0400 INFO  pdflatex - installing package booktabs triggered by tex\latex\booktabs\booktabs.sty
+2017-05-25 00:21:06,444+0400 INFO  pdflatex - mpm: starting package maintenance...
+2017-05-25 00:21:06,444+0400 INFO  pdflatex - mpm: installation directory: C:\Users\dduka\AppData\Roaming\MiKTeX\2.9
+2017-05-25 00:21:06,444+0400 INFO  pdflatex - mpm: package repository: ftp://mirrors.mi.ras.ru/CTAN/systems/win32/miktex/tm/packages/
+2017-05-25 00:21:06,444+0400 INFO  pdflatex - mpm: visiting repository ftp://mirrors.mi.ras.ru/CTAN/systems/win32/miktex/tm/packages/...
+2017-05-25 00:21:06,444+0400 INFO  pdflatex - mpm: repository type: remote package repository
+2017-05-25 00:21:06,444+0400 INFO  pdflatex - mpm: loading lightweight database...
+2017-05-25 00:21:06,446+0400 INFO  pdflatex - mpm: downloading ftp://mirrors.mi.ras.ru/CTAN/systems/win32/miktex/tm/packages/miktex-zzdb1-2.9.tar.lzma...
+2017-05-25 00:21:06,634+0400 INFO  pdflatex - mpm: 166669 bytes, 879.80 KB/Sec
+2017-05-25 00:21:06,769+0400 INFO  pdflatex - mpm: lightweight database digest: 3a990fd9300abc5d0d8c99b2064abddb
+2017-05-25 00:21:06,774+0400 INFO  pdflatex - mpm: going to download 49201 bytes
+2017-05-25 00:21:06,774+0400 INFO  pdflatex - mpm: going to install 6 file(s) (1 package(s))
+2017-05-25 00:21:06,776+0400 INFO  pdflatex - mpm: downloading ftp://mirrors.mi.ras.ru/CTAN/systems/win32/miktex/tm/packages/booktabs.cab...
+2017-05-25 00:21:06,805+0400 INFO  pdflatex - mpm: 49201 bytes, 1656.82 KB/Sec
+2017-05-25 00:21:06,805+0400 INFO  pdflatex - mpm: extracting files from booktabs.cab...
+2017-05-25 00:21:09,205+0400 INFO  pdflatex - installing package mdwtools triggered by tex\latex\mdwtools\footnote.sty
+2017-05-25 00:21:09,543+0400 INFO  pdflatex - mpm: starting package maintenance...
+2017-05-25 00:21:09,544+0400 INFO  pdflatex - mpm: installation directory: C:\Users\dduka\AppData\Roaming\MiKTeX\2.9
+2017-05-25 00:21:09,544+0400 INFO  pdflatex - mpm: package repository: ftp://mirrors.mi.ras.ru/CTAN/systems/win32/miktex/tm/packages/
+2017-05-25 00:21:09,550+0400 INFO  pdflatex - mpm: visiting repository ftp://mirrors.mi.ras.ru/CTAN/systems/win32/miktex/tm/packages/...
+2017-05-25 00:21:09,550+0400 INFO  pdflatex - mpm: repository type: remote package repository
+2017-05-25 00:21:09,550+0400 INFO  pdflatex - mpm: loading lightweight database...
+2017-05-25 00:21:09,552+0400 INFO  pdflatex - mpm: downloading ftp://mirrors.mi.ras.ru/CTAN/systems/win32/miktex/tm/packages/miktex-zzdb1-2.9.tar.lzma...
+2017-05-25 00:21:09,610+0400 INFO  pdflatex - mpm: 166669 bytes, 2806.25 KB/Sec
+2017-05-25 00:21:09,744+0400 INFO  pdflatex - mpm: lightweight database digest: 3a990fd9300abc5d0d8c99b2064abddb
+2017-05-25 00:21:09,744+0400 INFO  pdflatex - mpm: going to download 726578 bytes
+2017-05-25 00:21:09,744+0400 INFO  pdflatex - mpm: going to install 26 file(s) (1 package(s))
+2017-05-25 00:21:09,746+0400 INFO  pdflatex - mpm: downloading ftp://mirrors.mi.ras.ru/CTAN/systems/win32/miktex/tm/packages/mdwtools.tar.lzma...
+2017-05-25 00:21:09,926+0400 INFO  pdflatex - mpm: 726578 bytes, 3941.94 KB/Sec
+2017-05-25 00:21:09,928+0400 INFO  pdflatex - mpm: extracting files from mdwtools.tar.lzma...
+2017-05-25 00:21:11,682+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.7096 ./tex2pdf.7096/input.tex
+2017-05-25 00:21:13,384+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.7096 ./tex2pdf.7096/input.tex
+2017-05-25 00:21:32,698+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8768 ./tex2pdf.8768/input.tex
+2017-05-25 00:21:34,497+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8768 ./tex2pdf.8768/input.tex
+2017-05-25 00:21:36,248+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8768 ./tex2pdf.8768/input.tex
+2017-05-25 00:24:01,461+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8332 ./tex2pdf.8332/input.tex
+2017-05-25 00:24:03,253+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8332 ./tex2pdf.8332/input.tex
+2017-05-25 00:24:04,945+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8332 ./tex2pdf.8332/input.tex
+2017-05-25 00:24:28,151+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.3192 ./tex2pdf.3192/input.tex
+2017-05-25 00:24:29,930+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.3192 ./tex2pdf.3192/input.tex
+2017-05-25 00:24:31,629+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.3192 ./tex2pdf.3192/input.tex
+2017-05-25 00:25:07,397+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.9076 ./tex2pdf.9076/input.tex
+2017-05-25 00:25:09,166+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.9076 ./tex2pdf.9076/input.tex
+2017-05-25 00:25:10,855+0400 INFO  pdflatex - starting with command line: pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.9076 ./tex2pdf.9076/input.tex
+2017-05-25 00:54:15,855+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8348 ./tex2pdf.8348/input.tex
+2017-05-25 00:54:17,751+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8348 ./tex2pdf.8348/input.tex
+2017-05-25 00:54:19,574+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8348 ./tex2pdf.8348/input.tex
+2017-05-25 01:02:46,905+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.3340 ./tex2pdf.3340/input.tex
+2017-05-25 01:02:48,186+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.3340 ./tex2pdf.3340/input.tex
+2017-05-25 01:02:49,433+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.3340 ./tex2pdf.3340/input.tex
+2017-05-25 01:03:19,012+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.416 ./tex2pdf.416/input.tex
+2017-05-25 01:03:20,975+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.416 ./tex2pdf.416/input.tex
+2017-05-25 01:03:22,777+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.416 ./tex2pdf.416/input.tex
+2017-05-25 01:05:33,564+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.3308 ./tex2pdf.3308/input.tex
+2017-05-25 01:05:35,445+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.3308 ./tex2pdf.3308/input.tex
+2017-05-25 01:05:37,330+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.3308 ./tex2pdf.3308/input.tex
+2017-05-25 01:08:45,433+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8992 ./tex2pdf.8992/input.tex
+2017-05-25 01:08:47,405+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8992 ./tex2pdf.8992/input.tex
+2017-05-25 01:08:49,218+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8992 ./tex2pdf.8992/input.tex
+2017-05-25 01:09:48,881+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8536 ./tex2pdf.8536/input.tex
+2017-05-25 01:09:50,814+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8536 ./tex2pdf.8536/input.tex
+2017-05-25 01:09:52,629+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8536 ./tex2pdf.8536/input.tex
+2017-05-25 01:11:36,570+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8496 ./tex2pdf.8496/input.tex
+2017-05-25 01:11:37,856+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8496 ./tex2pdf.8496/input.tex
+2017-05-25 01:11:39,058+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8496 ./tex2pdf.8496/input.tex
+2017-05-25 01:12:27,694+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.3356 ./tex2pdf.3356/input.tex
+2017-05-25 01:12:28,712+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.3356 ./tex2pdf.3356/input.tex
+2017-05-25 01:12:29,782+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.3356 ./tex2pdf.3356/input.tex
+2017-05-25 01:12:58,279+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.3276 ./tex2pdf.3276/input.tex
+2017-05-25 01:13:00,244+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.3276 ./tex2pdf.3276/input.tex
+2017-05-25 01:13:02,052+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.3276 ./tex2pdf.3276/input.tex
+2017-05-25 01:15:15,869+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.4852 ./tex2pdf.4852/input.tex
+2017-05-25 01:15:31,443+0400 INFO  pdflatex - installing package framed triggered by tex\latex\framed\framed.sty
+2017-05-25 01:15:31,843+0400 INFO  pdflatex - mpm: starting package maintenance...
+2017-05-25 01:15:31,843+0400 INFO  pdflatex - mpm: installation directory: C:\NVIDIA\packman-repo\md2pdf\1.0
+2017-05-25 01:15:31,843+0400 INFO  pdflatex - mpm: package repository: ftp://mirrors.mi.ras.ru/CTAN/systems/win32/miktex/tm/packages/
+2017-05-25 01:15:31,843+0400 INFO  pdflatex - mpm: visiting repository ftp://mirrors.mi.ras.ru/CTAN/systems/win32/miktex/tm/packages/...
+2017-05-25 01:15:31,843+0400 INFO  pdflatex - mpm: repository type: remote package repository
+2017-05-25 01:15:31,843+0400 INFO  pdflatex - mpm: loading lightweight database...
+2017-05-25 01:15:31,845+0400 INFO  pdflatex - mpm: downloading ftp://mirrors.mi.ras.ru/CTAN/systems/win32/miktex/tm/packages/miktex-zzdb1-2.9.tar.lzma...
+2017-05-25 01:15:32,097+0400 INFO  pdflatex - mpm: 166669 bytes, 651.05 KB/Sec
+2017-05-25 01:15:32,248+0400 INFO  pdflatex - mpm: lightweight database digest: 3a990fd9300abc5d0d8c99b2064abddb
+2017-05-25 01:15:32,248+0400 INFO  pdflatex - mpm: going to download 248224 bytes
+2017-05-25 01:15:32,248+0400 INFO  pdflatex - mpm: going to install 3 file(s) (1 package(s))
+2017-05-25 01:15:32,249+0400 INFO  pdflatex - mpm: downloading ftp://mirrors.mi.ras.ru/CTAN/systems/win32/miktex/tm/packages/framed.tar.lzma...
+2017-05-25 01:15:32,316+0400 INFO  pdflatex - mpm: 248224 bytes, 3564.80 KB/Sec
+2017-05-25 01:15:34,042+0400 INFO  pdflatex - mpm: extracting files from framed.tar.lzma...
+2017-05-25 01:15:35,808+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.4852 ./tex2pdf.4852/input.tex
+2017-05-25 01:15:37,649+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.4852 ./tex2pdf.4852/input.tex
+2017-05-25 01:15:58,014+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.2620 ./tex2pdf.2620/input.tex
+2017-05-25 01:15:59,994+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.2620 ./tex2pdf.2620/input.tex
+2017-05-25 01:16:01,818+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.2620 ./tex2pdf.2620/input.tex
+2017-05-25 01:16:22,207+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.2976 ./tex2pdf.2976/input.tex
+2017-05-25 01:16:24,111+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.2976 ./tex2pdf.2976/input.tex
+2017-05-25 01:16:26,019+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.2976 ./tex2pdf.2976/input.tex
+2017-05-25 01:23:07,029+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8360 ./tex2pdf.8360/input.tex
+2017-05-25 01:23:08,351+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8360 ./tex2pdf.8360/input.tex
+2017-05-25 01:23:09,563+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8360 ./tex2pdf.8360/input.tex
+2017-05-25 01:27:25,012+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.5348 ./tex2pdf.5348/input.tex
+2017-05-25 01:27:26,912+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.5348 ./tex2pdf.5348/input.tex
+2017-05-25 01:27:28,812+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.5348 ./tex2pdf.5348/input.tex
+2017-05-25 01:29:22,755+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8300 ./tex2pdf.8300/input.tex
+2017-05-25 01:29:24,166+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8300 ./tex2pdf.8300/input.tex
+2017-05-25 01:29:25,425+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8300 ./tex2pdf.8300/input.tex
+2017-05-25 01:29:56,075+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.7876 ./tex2pdf.7876/input.tex
+2017-05-25 01:29:57,423+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.7876 ./tex2pdf.7876/input.tex
+2017-05-25 01:29:58,748+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.7876 ./tex2pdf.7876/input.tex
+2017-05-25 01:34:24,298+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8292 ./tex2pdf.8292/input.tex
+2017-05-25 01:34:25,716+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8292 ./tex2pdf.8292/input.tex
+2017-05-25 01:34:26,972+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8292 ./tex2pdf.8292/input.tex
+2017-05-25 01:35:40,709+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.4520 ./tex2pdf.4520/input.tex
+2017-05-25 01:35:42,614+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.4520 ./tex2pdf.4520/input.tex
+2017-05-25 01:35:44,518+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.4520 ./tex2pdf.4520/input.tex
+2017-05-25 01:39:23,112+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.7700 ./tex2pdf.7700/input.tex
+2017-05-25 01:39:24,196+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.7700 ./tex2pdf.7700/input.tex
+2017-05-25 01:39:25,226+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.7700 ./tex2pdf.7700/input.tex
+2017-05-25 01:41:26,339+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8740 ./tex2pdf.8740/input.tex
+2017-05-25 01:41:32,065+0400 INFO  pdflatex - installing package soul triggered by tex\latex\soul\soul.sty
+2017-05-25 01:41:32,601+0400 INFO  pdflatex - mpm: starting package maintenance...
+2017-05-25 01:41:32,601+0400 INFO  pdflatex - mpm: installation directory: C:\NVIDIA\packman-repo\md2pdf\1.0
+2017-05-25 01:41:32,601+0400 INFO  pdflatex - mpm: package repository: http://mirrors.mi.ras.ru/CTAN/systems/win32/miktex/tm/packages/
+2017-05-25 01:41:32,601+0400 INFO  pdflatex - mpm: visiting repository http://mirrors.mi.ras.ru/CTAN/systems/win32/miktex/tm/packages/...
+2017-05-25 01:41:32,601+0400 INFO  pdflatex - mpm: repository type: remote package repository
+2017-05-25 01:41:32,601+0400 INFO  pdflatex - mpm: loading lightweight database...
+2017-05-25 01:41:32,604+0400 INFO  pdflatex - mpm: downloading http://mirrors.mi.ras.ru/CTAN/systems/win32/miktex/tm/packages/miktex-zzdb1-2.9.tar.lzma...
+2017-05-25 01:41:32,762+0400 INFO  pdflatex - mpm: 166669 bytes, 1036.71 KB/Sec
+2017-05-25 01:41:32,914+0400 INFO  pdflatex - mpm: lightweight database digest: 3a990fd9300abc5d0d8c99b2064abddb
+2017-05-25 01:41:32,914+0400 INFO  pdflatex - mpm: going to download 86085 bytes
+2017-05-25 01:41:32,914+0400 INFO  pdflatex - mpm: going to install 7 file(s) (1 package(s))
+2017-05-25 01:41:32,915+0400 INFO  pdflatex - mpm: downloading http://mirrors.mi.ras.ru/CTAN/systems/win32/miktex/tm/packages/soul.cab...
+2017-05-25 01:41:32,942+0400 INFO  pdflatex - mpm: 86085 bytes, 3002.41 KB/Sec
+2017-05-25 01:41:32,943+0400 INFO  pdflatex - mpm: extracting files from soul.cab...
+2017-05-25 01:41:36,241+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8740 ./tex2pdf.8740/input.tex
+2017-05-25 01:41:37,952+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8740 ./tex2pdf.8740/input.tex
+2017-05-25 01:44:26,939+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8424 ./tex2pdf.8424/input.tex
+2017-05-25 01:44:28,940+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8424 ./tex2pdf.8424/input.tex
+2017-05-25 01:44:30,771+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8424 ./tex2pdf.8424/input.tex
+2017-05-25 01:46:50,890+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.9176 ./tex2pdf.9176/input.tex
+2017-05-25 01:46:52,805+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.9176 ./tex2pdf.9176/input.tex
+2017-05-25 01:46:54,717+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.9176 ./tex2pdf.9176/input.tex
+2017-05-25 01:48:59,748+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.4480 ./tex2pdf.4480/input.tex
+2017-05-25 01:49:01,682+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.4480 ./tex2pdf.4480/input.tex
+2017-05-25 01:49:03,519+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.4480 ./tex2pdf.4480/input.tex
+2017-05-25 01:49:10,840+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.5360 ./tex2pdf.5360/input.tex
+2017-05-25 01:49:12,745+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.5360 ./tex2pdf.5360/input.tex
+2017-05-25 01:49:14,651+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.5360 ./tex2pdf.5360/input.tex
+2017-05-25 01:49:52,187+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.7740 ./tex2pdf.7740/input.tex
+2017-05-25 01:49:54,186+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.7740 ./tex2pdf.7740/input.tex
+2017-05-25 01:49:56,013+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.7740 ./tex2pdf.7740/input.tex
+2017-05-25 01:52:51,302+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.9184 ./tex2pdf.9184/input.tex
+2017-05-25 01:52:53,211+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.9184 ./tex2pdf.9184/input.tex
+2017-05-25 01:52:55,125+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.9184 ./tex2pdf.9184/input.tex
+2017-05-25 01:55:19,289+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.7136 ./tex2pdf.7136/input.tex
+2017-05-25 01:55:21,280+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.7136 ./tex2pdf.7136/input.tex
+2017-05-25 01:55:23,110+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.7136 ./tex2pdf.7136/input.tex
+2017-05-25 01:58:23,797+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.6552 ./tex2pdf.6552/input.tex
+2017-05-25 01:58:25,705+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.6552 ./tex2pdf.6552/input.tex
+2017-05-25 01:58:27,618+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.6552 ./tex2pdf.6552/input.tex
+2017-05-25 01:59:36,817+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.6260 ./tex2pdf.6260/input.tex
+2017-05-25 01:59:38,813+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.6260 ./tex2pdf.6260/input.tex
+2017-05-25 01:59:40,643+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.6260 ./tex2pdf.6260/input.tex
+2017-05-25 02:01:15,151+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.9172 ./tex2pdf.9172/input.tex
+2017-05-25 02:01:17,105+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.9172 ./tex2pdf.9172/input.tex
+2017-05-25 02:01:18,937+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.9172 ./tex2pdf.9172/input.tex
+2017-05-25 02:02:13,244+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.2052 ./tex2pdf.2052/input.tex
+2017-05-25 02:02:15,193+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.2052 ./tex2pdf.2052/input.tex
+2017-05-25 02:02:17,140+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.2052 ./tex2pdf.2052/input.tex
+2017-05-25 02:02:18,475+0400 FATAL pdflatex - Invalid argument
+2017-05-25 02:02:18,475+0400 FATAL pdflatex - Info: 
+2017-05-25 02:02:18,475+0400 FATAL pdflatex - Source: libraries\miktex\texandfriends\include\miktex\c4p\C4P.h
+2017-05-25 02:02:18,475+0400 FATAL pdflatex - Line: 579
+2017-05-25 02:02:39,432+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.2928 ./tex2pdf.2928/input.tex
+2017-05-25 02:02:41,425+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.2928 ./tex2pdf.2928/input.tex
+2017-05-25 02:02:43,253+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.2928 ./tex2pdf.2928/input.tex
+2017-05-25 02:04:26,650+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8300 ./tex2pdf.8300/input.tex
+2017-05-25 02:04:28,560+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8300 ./tex2pdf.8300/input.tex
+2017-05-25 02:04:30,475+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8300 ./tex2pdf.8300/input.tex
+2017-05-25 02:04:55,079+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.5060 ./tex2pdf.5060/input.tex
+2017-05-25 02:04:57,075+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.5060 ./tex2pdf.5060/input.tex
+2017-05-25 02:04:58,904+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.5060 ./tex2pdf.5060/input.tex
+2017-05-25 02:05:27,450+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.4628 ./tex2pdf.4628/input.tex
+2017-05-25 02:05:29,361+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.4628 ./tex2pdf.4628/input.tex
+2017-05-25 02:05:31,274+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.4628 ./tex2pdf.4628/input.tex
+2017-05-25 02:06:05,210+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.9040 ./tex2pdf.9040/input.tex
+2017-05-25 02:06:07,177+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.9040 ./tex2pdf.9040/input.tex
+2017-05-25 02:06:09,096+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.9040 ./tex2pdf.9040/input.tex
+2017-05-25 02:07:21,088+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8764 ./tex2pdf.8764/input.tex
+2017-05-25 02:07:23,078+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8764 ./tex2pdf.8764/input.tex
+2017-05-25 02:07:24,926+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8764 ./tex2pdf.8764/input.tex
+2017-05-25 02:13:49,698+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.4556 ./tex2pdf.4556/input.tex
+2017-05-25 02:13:51,474+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.4556 ./tex2pdf.4556/input.tex
+2017-05-25 02:13:53,215+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.4556 ./tex2pdf.4556/input.tex
+2017-05-25 02:16:39,335+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.5720 ./tex2pdf.5720/input.tex
+2017-05-25 02:16:41,314+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.5720 ./tex2pdf.5720/input.tex
+2017-05-25 02:16:43,162+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.5720 ./tex2pdf.5720/input.tex
+2017-05-25 02:31:16,309+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.1724 ./tex2pdf.1724/input.tex
+2017-05-25 02:31:18,344+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.1724 ./tex2pdf.1724/input.tex
+2017-05-25 02:31:20,274+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.1724 ./tex2pdf.1724/input.tex
+2017-05-25 02:53:07,671+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8008 ./tex2pdf.8008/input.tex
+2017-05-25 02:53:10,342+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8008 ./tex2pdf.8008/input.tex
+2017-05-25 02:53:12,930+0400 INFO  pdflatex - starting with command line: C:\NVIDIA\packman-repo\md2pdf\1.0\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.8008 ./tex2pdf.8008/input.tex
+2017-05-25 14:45:50,271+0300 INFO  pdflatex - starting with command line: D:\NVIDIA\packman-repo\md2pdf\1.1\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.12388 ./tex2pdf.12388/input.tex
+2017-05-25 14:45:53,077+0300 INFO  pdflatex - starting with command line: D:\NVIDIA\packman-repo\md2pdf\1.1\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.12388 ./tex2pdf.12388/input.tex
+2017-05-25 14:45:55,520+0300 INFO  pdflatex - starting with command line: D:\NVIDIA\packman-repo\md2pdf\1.1\miktex\bin\pdflatex -halt-on-error -interaction nonstopmode -output-directory ./tex2pdf.12388 ./tex2pdf.12388/input.tex

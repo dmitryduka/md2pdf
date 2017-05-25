@@ -1,0 +1,6 @@
+2017-05-24 22:45:04,497+0400 INFO  mpmcli - starting: mpmcli (MiKTeX 2.9.6300 64-bit)
+2017-05-24 22:45:04,497+0400 INFO  mpmcli - configuring fontconfig\config\fonts.conf
+2017-05-24 22:45:04,524+0400 INFO  mpmcli - registering C:\Program Files\MiKTeX 2.9\miktex/bin/x64\MiKTeX209-core.dll
+2017-05-24 22:45:04,622+0400 INFO  mpmcli - registering C:\Program Files\MiKTeX 2.9\miktex/bin/x64\MiKTeX209-core-PS.dll
+2017-05-24 22:45:04,636+0400 INFO  mpmcli - registering C:\Program Files\MiKTeX 2.9\miktex/bin/x64\MiKTeX209-packagemanager.dll
+2017-05-24 22:45:04,783+0400 INFO  mpmcli - registering C:\Program Files\MiKTeX 2.9\miktex/bin/x64\MiKTeX209-packagemanager-PS.dll
